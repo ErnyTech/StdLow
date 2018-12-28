@@ -1,0 +1,14 @@
+{
+	"name" : "stdlow",
+	"description" : "A library to facilitate the use of low-level D",
+	"authors": [
+		"Ernesto Castellotti <erny.castell@gmail.com"
+	],
+	"copyright": "Copyright C 2018-2019 Ernesto Castellotti <erny.castell@gmail.com",
+	"license": "LGPL 3",
+	"targetType": "library",
+	"buildOptions": [
+		"releaseMode",
+		"optimize"
+	]
+}
